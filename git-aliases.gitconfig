@@ -1,0 +1,11 @@
+[alias]
+        st = status
+        br = branch
+        co = commit -m
+        ch = checkout
+        DELET = branch -D
+        l = log
+        a = add
+        i = init
+        delet = branch -d
+
