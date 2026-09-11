@@ -8,4 +8,5 @@
         a = add
         i = init
         delet = branch -d
+        rename = branch -m
 
