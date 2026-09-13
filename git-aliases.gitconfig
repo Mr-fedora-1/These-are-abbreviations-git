@@ -1,12 +1,20 @@
 [alias]
         st = status
         br = branch
-        co = commit -m
+        co = "commit -m"
         ch = checkout
-        DELET = branch -D
+        DELET = "branch -D"
         l = log
         a = add
         i = init
-        delet = branch -d
-        rename = branch -m
+        delet = "branch -d"
+        rename = "branch -m"
+        new = "checkout -b"
+        s = stash
+        p = "stash pop"
+        li = "stash list"
+        ma = "stash save"
+        ss = "stash show"
+        cl = "clean -n"
 
+        
